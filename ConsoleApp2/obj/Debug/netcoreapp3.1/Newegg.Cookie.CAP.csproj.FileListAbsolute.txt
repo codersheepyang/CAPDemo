@@ -1,0 +1,13 @@
+D:\Project\CAPTest\ConsoleApp2\bin\Debug\netcoreapp3.1\Newegg.Cookie.CAP.exe
+D:\Project\CAPTest\ConsoleApp2\bin\Debug\netcoreapp3.1\Newegg.Cookie.CAP.deps.json
+D:\Project\CAPTest\ConsoleApp2\bin\Debug\netcoreapp3.1\Newegg.Cookie.CAP.runtimeconfig.json
+D:\Project\CAPTest\ConsoleApp2\bin\Debug\netcoreapp3.1\Newegg.Cookie.CAP.runtimeconfig.dev.json
+D:\Project\CAPTest\ConsoleApp2\bin\Debug\netcoreapp3.1\Newegg.Cookie.CAP.dll
+D:\Project\CAPTest\ConsoleApp2\bin\Debug\netcoreapp3.1\Newegg.Cookie.CAP.pdb
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.csprojAssemblyReference.cache
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.AssemblyInfoInputs.cache
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.AssemblyInfo.cs
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.csproj.CoreCompileInputs.cache
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.dll
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.pdb
+D:\Project\CAPTest\ConsoleApp2\obj\Debug\netcoreapp3.1\Newegg.Cookie.CAP.genruntimeconfig.cache
